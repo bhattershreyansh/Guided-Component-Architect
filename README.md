@@ -1,6 +1,6 @@
 # Guided Component Architect
 
-A powerful agentic code-generation platform that transforms natural language descriptions into valid, governed Angular components. Built for the Pythrust Technologies Gen AI Engineer assignment.
+A powerful agentic code-generation platform that transforms natural language descriptions into valid, governed Angular components.
 
 ## 🚀 Live Demo
 
