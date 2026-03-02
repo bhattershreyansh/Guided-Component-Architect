@@ -1,4 +1,4 @@
-# Guided Component Architect
+# NG-GENIE
 
 A powerful agentic code-generation platform that transforms natural language descriptions into valid, governed Angular components.
 
